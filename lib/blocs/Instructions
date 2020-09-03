@@ -1,0 +1,4 @@
+Este diretorio armazena as classes que realizam a ponte de comunicação com as screens e os repositories.
+
+
+Siga o exemplo da Classe Linker para implementação de alguma função, ou crie validadores para determinadas funções.

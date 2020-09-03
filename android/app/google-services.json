@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "882882205693",
+    "firebase_url": "https://agesmental-2143c.firebaseio.com",
+    "project_id": "agesmental-2143c",
+    "storage_bucket": "agesmental-2143c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882882205693:android:378a3d9be65111d139ab94",
+        "android_client_info": {
+          "package_name": "br.pucrs.AgesMental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882882205693-l1lh8g74lop4i5cgpi990245iokq42a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.pucrs.AgesMental",
+            "certificate_hash": "b4356f5edc93579d97710457e2460ef27b0e43ca"
+          }
+        },
+        {
+          "client_id": "882882205693-hp4fcc2lkrhmbj3kdhmbrotdm8cmju97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR_rfYl0ZZzrGyJlIyFQNrlre8-9QXbFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882882205693-hp4fcc2lkrhmbj3kdhmbrotdm8cmju97.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "882882205693-1n0a0175asu8gpj89qcuuho4lfmiakti.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.pucrs.AgesMental"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
